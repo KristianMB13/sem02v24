@@ -24,3 +24,24 @@
 /AppData/
 /Local Settings/
 /NTUSER.*
+
+# Ignorer systemfiler og mapper
+AppData/
+Contacts/
+Desktop/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+*.log
+*.ini
+*.DAT
+*.blf
+*.regtrans-ms
+# ... legg til andre filer og mapper som skal ignoreres
